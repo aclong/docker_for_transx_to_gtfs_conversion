@@ -1,0 +1,5 @@
+#ignoring various files
+
+*.zip
+*.csv
+
